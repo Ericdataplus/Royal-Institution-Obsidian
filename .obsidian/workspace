@@ -7,8 +7,12 @@
         "id": "288e7edb5e2db1de",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Brain/Brain.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -44,12 +48,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "f931de467453babf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 259
   },
   "right": {
     "id": "a73a92fc296a1a8a",
@@ -65,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Brain/Brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -72,6 +85,27 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ad4db2907fb4b07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d28b284e636943d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Brain/Brain.md"
               }
             }
           }
@@ -84,11 +118,15 @@
   },
   "active": "288e7edb5e2db1de",
   "lastOpenFiles": [
+    "Brain/Brain.md",
+    "2022-07-04.md",
+    "Combining medicine and design.md",
+    "Royal Institution.md",
+    "Brain/Science of Sleep.md",
+    "Brain/Science of Laughter.md",
+    "Brain/Psychology of thinking.md",
     "Royal Institution/Brain/Source of Consciousness.md",
     "Royal Institution/Brain/Science of Sleep.md",
-    "Royal Institution/Brain/Science of Laughter.md",
-    "Royal Institution/Brain/Psychology of thinking.md",
-    "Royal Institution/Brain/Brain.md",
-    "index.md"
+    "Royal Institution/Brain/Science of Laughter.md"
   ]
 }
