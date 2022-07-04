@@ -7,7 +7,7 @@
         "id": "288e7edb5e2db1de",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -84,6 +84,11 @@
   },
   "active": "288e7edb5e2db1de",
   "lastOpenFiles": [
+    "Royal Institution/Brain/Source of Consciousness.md",
+    "Royal Institution/Brain/Science of Sleep.md",
+    "Royal Institution/Brain/Science of Laughter.md",
+    "Royal Institution/Brain/Psychology of thinking.md",
+    "Royal Institution/Brain/Brain.md",
     "index.md"
   ]
 }
